@@ -1,4 +1,4 @@
-# Pi Temperature Sensor API
+# BMP085_BMP180 Sensor API
 
 This is a simple project to run an API that returns the metrics from a BMP085/BMP180 sensor.  The project includes opensource libraries from Adafruit for interfacing with the sensor.  This returns metrics in Prometheus style output.
 
@@ -16,7 +16,7 @@ Works with python3, so make sure it is installed first.  Clone the code reposito
 
 Clone repo and change directory.
 
-`$ git clone git@gitlab.com:raackley-open-source/pi-temperature-sensor-api.git`
+`$ git clone git@gitlab.com:raackley-open-source/bmp085_bmp180-sensor-api.git`
 
 `$ cd pi-temperature-sensor-api`
 
